@@ -1,0 +1,137 @@
+{
+    "appName": "Components Menu Options",
+    "routes": [
+        {
+            "tituloBloque": "Widget Básicos",
+            "opcionesMenu": [
+                {
+                    "ruta"    : "alert",
+                    "icon"    : "notifications_none",
+                    "text"    : "Alertas",
+                    "subtitle": "Crear alertas"
+                },
+                {
+                    "ruta"    : "inputs",
+                    "icon"    : "text_fields",
+                    "text"    : "Input fields",
+                    "subtitle": "Manejar cajas de texto: nombre, email, password y fechas"
+                },
+                {
+                    "ruta"    : "sliders",
+                    "icon"    : "tune",
+                    "text"    : "Sliders, Checkbox & Switches",
+                    "subtitle": "Crear y gestionar sliders, checkbox y switches"
+                },
+                {
+                    "ruta"    : "list",
+                    "icon"    : "list",
+                    "text"    : "List builder & Infinite Scroll & Pull to Refresh",
+                    "subtitle": "Uso del Listview Builder y scroll infinito"
+                },
+                {
+                    "ruta"    : "radio-widget",
+                    "icon"    : "radio-widget",
+                    "text"    : "Radio Widgets",
+                    "subtitle": "Radio button widgets algo más avanzados que los simples"
+                }
+            ]
+        },
+        {
+            "tituloBloque": "Widget Avanzados",
+            "opcionesMenu": [
+                {
+                    "ruta"    : "wrap-widget",
+                    "icon"    : "wrap-widget",
+                    "text"    : "Widgets envueltos (tipo botón/tag)",
+                    "subtitle": "Util forma de mostrar widgets envueltos como si fuesen botones y con valores seleccionables"
+                }
+            ]
+        },
+        {
+            "tituloBloque": "Diseño de Tarjetas (Cards)",
+            "opcionesMenu": [
+                {
+                    "ruta"    : "card",
+                    "icon"    : "folder_open",
+                    "text"    : "Lista de Tarjetas",
+                    "subtitle": "Lista con varios tipos de tarjetas: widget + customizadas"
+                },
+                {
+                    "ruta"    : "background-gradient",
+                    "icon"    : "background-gradient",
+                    "text"    : "Fondo gradiente con tarjetas",
+                    "subtitle": "Añadir un gradiente a cualquier fondo"
+                }
+
+            ]
+        },
+        {
+            "tituloBloque": "User profile",
+            "opcionesMenu": [
+                {
+                    "ruta"    : "profile",
+                    "icon"    : "person_outline",
+                    "text"    : "Profile & Avatars",
+                    "subtitle": "Ejemplo básico de página de perfil (avatar + datos)"
+                }
+            ]
+        },
+        {
+            "tituloBloque": "Animaciones",
+            "opcionesMenu": [    
+                {
+                    "ruta"    : "animations",
+                    "icon"    : "donut_large",
+                    "text"    : "Animated Containers",
+                    "subtitle": "Crear elementos (containers) animados"
+                }
+            ]
+        },
+        {
+            "tituloBloque": "Drawes",
+            "opcionesMenu": [
+                {
+                    "ruta"    : "drawer",
+                    "icon"    : "drawer",
+                    "text"    : "Drawer example",
+                    "subtitle": "Uso del drawer y navegación entre páginas"
+                },
+                {
+                    "ruta"    : "custom-animated-drawer",
+                    "icon"    : "custom-animated-drawer",
+                    "text"    : "Custom Animated Drawer example",
+                    "subtitle": "Drawer customizado y animado"
+                },
+                {
+                    "ruta"    : "custom-rotation-drawer",
+                    "icon"    : "custom-rotation-drawer",
+                    "text"    : "Custom Rotation Drawer example",
+                    "subtitle": "Drawer 3D que rota"
+                }
+            ]
+        },
+        {
+            "tituloBloque": "Bottom Bar Navigation",
+            "opcionesMenu": [    
+                {
+                    "ruta"    : "custom-bottom-bar",
+                    "icon"    : "custom-bottom-bar",
+                    "text"    : "Custom Bottom Bar",
+                    "subtitle": "Bottom bar customizado y elegante"
+                } 
+            ]    
+        },
+        {
+            "tituloBloque": "App Bars",
+            "opcionesMenu": [    
+                {
+                    "ruta"    : "custom-app-bar",
+                    "icon"    : "custom-app-bar",
+                    "text"    : "Custom App Bar",
+                    "subtitle": "AppBar customizado y elegante"
+                } 
+            ]    
+        }
+
+    ]
+}
